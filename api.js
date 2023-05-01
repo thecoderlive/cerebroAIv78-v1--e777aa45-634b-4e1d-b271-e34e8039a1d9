@@ -1,0 +1,5 @@
+export const api = {
+  "home": "https://script.google.com/macros/s/AKfycbyezGmmVC7433ZOW6K8rVUiMrLVcbcAdDcX_EaiBU0hbkLO0m43p5Q4SbSV4cOeT64S/exec?method=list&endpoint=home&screen_name=home&ss_url=https%3A//docs.google.com/spreadsheets/d/1N0ejG0lKhfYYiR4knNjwkm0turrS6yXNoASsnptK8CY/edit&item_id=",
+  "stories": "https://script.google.com/macros/s/AKfycbyezGmmVC7433ZOW6K8rVUiMrLVcbcAdDcX_EaiBU0hbkLO0m43p5Q4SbSV4cOeT64S/exec?method=list&endpoint=stories&screen_name=home&ss_url=https%3A//docs.google.com/spreadsheets/d/1N0ejG0lKhfYYiR4knNjwkm0turrS6yXNoASsnptK8CY/edit&item_id=",
+  "videos": "https://script.google.com/macros/s/AKfycbyezGmmVC7433ZOW6K8rVUiMrLVcbcAdDcX_EaiBU0hbkLO0m43p5Q4SbSV4cOeT64S/exec?method=list&endpoint=videos&screen_name=home&ss_url=https%3A//docs.google.com/spreadsheets/d/1N0ejG0lKhfYYiR4knNjwkm0turrS6yXNoASsnptK8CY/edit&item_id="
+}
